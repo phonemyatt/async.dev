@@ -9,6 +9,6 @@
 <body>
     <h1>Hey Shervelle</h1>
     <p>Time to sleep seriously.</p>
-    <a href="{{ route('/sample') }}">Click here to see more.</a>
+    <a href="{{ url('sample') }}">Click here to see more.</a>
 </body>
 </htmSh
