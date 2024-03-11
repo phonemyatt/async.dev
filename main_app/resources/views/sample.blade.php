@@ -7,6 +7,8 @@
     <title>Sample</title>
 </head>
 <body>
-    Test 2
+    <h1>Shervelle should be sleeping.</h1>
+    <p>Just like in this picture.</p>
+    <img src="{{url('/s_11032024.jpg')}}" alt="Image"/>
 </body>
 </html>

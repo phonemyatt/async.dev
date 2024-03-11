@@ -7,7 +7,8 @@
     <title>Asyc Dev</title>
 </head>
 <body>
-    <h1>Sample</h1>
-    <p>Main Testing in Namecheap</p>
+    <h1>Hey Shervelle</h1>
+    <p>Time to sleep seriously.</p>
+    <a href="{{ route('sample') }}">Click here to see more.</a>
 </body>
-</html>
+</htmSh
